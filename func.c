@@ -1,3 +1,4 @@
 int (int a, int b) {
-  // TODO nothing
+  int c= a-b;
+  return a+b;
 }
